@@ -1,0 +1,10 @@
+[project]
+name = "agent-skill"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pre-commit>=4.5.1",
+    "uv>=0.10.0",
+]
